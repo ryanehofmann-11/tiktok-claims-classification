@@ -1,0 +1,12 @@
+README.md
+.gitignore
+requirements.txt
+docs/executive_summary_course2.md
+docs/pace.md
+docs/proposal.md
+data/raw/.gitkeep
+data/processed/.gitkeep
+reports/figures/.gitkeep
+src/__init__.py
+tests/.gitkeep
+.github/workflows/ci.yml
