@@ -60,8 +60,10 @@ The full workflow is documented in Jupyter notebooks:
 - Built baseline regression and classification models, improving performance with tree-based models.  
 - Delivered executive summaries and stakeholder-ready documentation at each milestone.
 
+Significant charts, please see [Machine Learning Executive Summary](docs/ML_Executive_Summary.pdf) & [05_machine_learning.ipynb](notebooks/05_Machine_Learning.ipynb) for further analysis
+
+MLE Feature Importance & Champion RF Confusion Matrix
 - <img width="630" height="470" alt="image" src="https://github.com/user-attachments/assets/7f737a1c-f443-41b3-8a23-0103e12d014f" />
-MLE Feature Importance
 
 -<img width="515" height="455" alt="image" src="https://github.com/user-attachments/assets/c1ce2671-caa0-4f49-9e4b-80f8d52ae26f" />
 
