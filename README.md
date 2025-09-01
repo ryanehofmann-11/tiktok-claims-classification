@@ -25,10 +25,11 @@ The project follows the **PACE framework (Plan, Analyze, Communicate, Execute)**
 Each milestone of the project includes a formal executive summary with key findings:
 
 - [Data Analysis Executive Summary](docs/Data_Analysis_Executive_Summary.pdf)  
-- [EDA Executive Summary](docs/EDA_Executive_Summary.pdf)  
+- [EDA Executive Summary](docs/EDA_Executive_Summary.pdf)
+- [Statistics Executive Summary](docs/Statistics_Executive_Summary.pdf)  
 - [Regression Executive Summary](docs/Regression_Executive_Summary.pdf)  
 - [Machine Learning Executive Summary](docs/ML_Executive_Summary.pdf)  
-- [Statistics Executive Summary](docs/Statistics_Executive_Summary.pdf)  
+
 
 ---
 
@@ -36,10 +37,10 @@ Each milestone of the project includes a formal executive summary with key findi
 The full workflow is documented in Jupyter notebooks:
 
 - [01_data_analysis.ipynb](notebooks/01_Data_Analysis.ipynb) — Initial data analysis and cleaning
-- [02_statistical_analysis.ipynb](notebooks/TikTok%20Project%20Statistical%20Analysis.ipynb) — Hypothesis testing and statistical analysis  
-- [03_visualizations.ipynb](notebooks/TikTok%20Project%20Visualizations.ipynb) — Exploratory visualizations and engagement trends  
-- [04_regression.ipynb](notebooks/TikTok%20project%20Regression.ipynb) — Regression modeling  
-- [05_machine_learning.ipynb](notebooks/TikTok%20Project%20Machine%20Learning.ipynb) — Machine learning classification models  
+- [02_visualizations.ipynb](notebooks/02_Visualizations.ipynb) — Exploratory visualizations and engagement trends
+- [03_statistical_analysis.ipynb](notebooks/03_Statistical_Analysis.ipynb) — Hypothesis testing and statistical analysis   
+- [04_regression.ipynb](notebooks/04_Regression.ipynb) — Regression modeling  
+- [05_machine_learning.ipynb](notebooks/05_Machine_Learning.ipynb) — Machine learning classification models  
 
 
 ---
