@@ -61,6 +61,11 @@ The full workflow is documented in Jupyter notebooks:
 - Delivered executive summaries and stakeholder-ready documentation at each milestone.
 
 - <img width="630" height="470" alt="image" src="https://github.com/user-attachments/assets/7f737a1c-f443-41b3-8a23-0103e12d014f" />
+MLE Feature Importance
+
+-<img width="515" height="455" alt="image" src="https://github.com/user-attachments/assets/c1ce2671-caa0-4f49-9e4b-80f8d52ae26f" />
+
+
 
 
 ---
