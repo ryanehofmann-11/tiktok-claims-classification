@@ -15,7 +15,7 @@ The project follows the **PACE framework (Plan, Analyze, Communicate, Execute)**
 ---
 
 ## 📑 Project Proposal & PACE Strategy
-- [Project Proposal (DOCX)](docs/_Tik_Tok_Project_Proposal.pdf)
+- [Project Proposal (PDF)](docs/_Tik_Tok_Project_Proposal.pdf)
 - [PACE Strategy (PDF)](docs/Tik%20Tok%20PACE%20Strategy.pdf)  
   
 
