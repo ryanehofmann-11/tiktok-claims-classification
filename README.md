@@ -60,6 +60,9 @@ The full workflow is documented in Jupyter notebooks:
 - Built baseline regression and classification models, improving performance with tree-based models.  
 - Delivered executive summaries and stakeholder-ready documentation at each milestone.
 
+- <img width="630" height="470" alt="image" src="https://github.com/user-attachments/assets/7f737a1c-f443-41b3-8a23-0103e12d014f" />
+
+
 ---
 
 ## 🚀 Next Steps
