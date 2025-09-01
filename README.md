@@ -35,7 +35,7 @@ Each milestone of the project includes a formal executive summary with key findi
 ## 📓 Notebooks
 The full workflow is documented in Jupyter notebooks:
 
-- [01_data_analysis.ipynb](notebooks/TikTok%20Project%20Data%20Analysis.ipynb) — Initial data analysis and cleaning
+- [01_data_analysis.ipynb](notebooks/01_Data_Analysis.ipynb) — Initial data analysis and cleaning
 - [02_statistical_analysis.ipynb](notebooks/TikTok%20Project%20Statistical%20Analysis.ipynb) — Hypothesis testing and statistical analysis  
 - [03_visualizations.ipynb](notebooks/TikTok%20Project%20Visualizations.ipynb) — Exploratory visualizations and engagement trends  
 - [04_regression.ipynb](notebooks/TikTok%20project%20Regression.ipynb) — Regression modeling  
